@@ -1,0 +1,14 @@
+Java is a programming language that allows developers to write instructions for computers. These instructions, written in Java, can run on different devices or systems, thanks to a special software called the Java Virtual Machine (JVM). Java is known for its simplicity, versatility, and the ability to create software that works on various platforms.
+
+Java Code (.java):
+Java code is the source code that you write in the Java programming language. It's a human-readable text file with a .java extension. This code contains instructions that define how a Java program should behave.
+
+// Simple program to add two numbers and sgowing syntax
+public class AddNumbers {
+    public static void main(String[] args) {
+        int num1 = 5;
+        int num2 = 10;
+        int sum = num1 + num2;
+        System.out.println("Sum: " + sum);
+    }
+}
